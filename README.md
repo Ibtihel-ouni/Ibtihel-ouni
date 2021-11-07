@@ -10,9 +10,9 @@
 
 
 
-👩‍💻 Software Computing and Automation Engineering Student \
-🚀 Highly Passionate about  AI\
-👯 Looking to collaborate on open source projects\
+👩‍💻 AI Engineer | Data Scientist  \
+🚀 Highly Passionate about AI \
+👯 Looking forward to collaborating on open source projects \
 💬 Feel free to ask me about anything, I would be glad to help (if I could ✨)\
 🔭 Love Traveling and Dancing\
 ⚡ Fun fact : My name is " P'tit Hell " :
