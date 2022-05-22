@@ -24,6 +24,7 @@
 
   <br />
   <hr />
+</p>
 
 <p align="center"> 
 
