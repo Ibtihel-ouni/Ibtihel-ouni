@@ -1,7 +1,7 @@
 <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here!  
 </h1>
 
-👩‍💻 AI Engineer | Data Scientist \ 
+👩‍💻 AI Engineer | Data Scientist \
 🚀 Highly Passionate about AI \
 👯 Looking forward to collaborating on open source projects \
 💬 Feel free to ask me about anything, I would be glad to help (if I could ✨)\
