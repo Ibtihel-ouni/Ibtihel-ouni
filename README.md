@@ -1,5 +1,5 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here!  
-</h2>
+<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here!  
+</h1>
 
 👩‍💻 AI Engineer | Data Scientist  \
 🚀 Highly Passionate about AI \
@@ -10,7 +10,7 @@
 "p'tit" is " little " in french 😃 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" width="240px">
+<img src="https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" width="270px">
 
 <hr />
 
