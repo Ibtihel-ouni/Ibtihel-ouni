@@ -2,12 +2,6 @@
   𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here!    
   <img src="https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" height="270px" width="270px" align="right">
 </h1>
-
-<!-- intro hello world -->
-<h1 align="center">
-𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! 
-<img src= "https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" height="270px" align="right">
-</h1>
 <br>
 
 👩‍💻 AI Engineer | Data Scientist  \
