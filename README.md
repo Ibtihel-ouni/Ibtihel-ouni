@@ -3,6 +3,13 @@
   <img src="https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" height="270px" width="270px" align="right">
 </h1>
 
+<!-- intro hello world -->
+<h1 align="center">
+𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="GIF/Earth.gif" width="24px">
+<img src= "https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" height="270px" width="370px" align="right">
+</h1>
+<br>
+
 👩‍💻 AI Engineer | Data Scientist  \
 🚀 Highly Passionate about AI \
 👯 Looking forward to collaborating on open source projects \
