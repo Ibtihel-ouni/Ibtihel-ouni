@@ -11,6 +11,7 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" width="275px">
+  
   <b><i>Let's connect!</i></b>
 
   [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
