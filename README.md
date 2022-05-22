@@ -1,12 +1,5 @@
-
- 
-
-
-
-
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here!  
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here!  <img align="right" src="https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" width="200px">
 </h2>
-
 
 
 
