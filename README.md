@@ -1,5 +1,5 @@
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here!  
-</h1>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here!  
+</h2>
 
 👩‍💻 AI Engineer | Data Scientist \
 🚀 Highly Passionate about AI \
