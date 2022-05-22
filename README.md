@@ -1,6 +1,6 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here!  
-  
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here!    
 </h2>
+
 👩‍💻 AI Engineer | Data Scientist  \
 🚀 Highly Passionate about AI \
 👯 Looking forward to collaborating on open source projects \
@@ -8,6 +8,7 @@
 🔭 Love Traveling and Dancing\
 ⚡ Fun fact : My name is " P'tit Hell " :
 "p'tit" is " little " in french 😃 
+
 <p align="right">
 <img src="https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" width="257px">
 </p>
