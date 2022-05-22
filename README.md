@@ -23,6 +23,7 @@
   [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
   
   <br />
+  </p>
   
 <hr />
 
