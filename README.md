@@ -6,7 +6,7 @@
 
 👩‍💻 AI Engineer | Data Scientist \
 🚀 Highly Passionate about AI \
-🌱 Currently learning: MLOps 
+🌱 Currently learning: MLOps \ 
 👯 Looking forward to collaborating on open source projects \
 💬 Feel free to ask me about anything, I would be glad to help (if I could ✨)\
 🔭 Love Traveling and Dancing\
