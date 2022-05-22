@@ -1,7 +1,11 @@
 <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here!  
 </h1>
 
-👩‍💻 AI Engineer | Data Scientist  \ <p align="right"> <img src="https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" width="270px">
+👩‍💻 AI Engineer | Data Scientist  \ 
+
+<p align="right"> 
+  <img src="https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" width="270px">
+  
 🚀 Highly Passionate about AI \
 👯 Looking forward to collaborating on open source projects \
 💬 Feel free to ask me about anything, I would be glad to help (if I could ✨)\
