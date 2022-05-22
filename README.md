@@ -12,8 +12,6 @@
 "p'tit" is " little " in french 😃 
 
 <p align="center">
-  
-<img src="https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" width="270px" align="center">
 
   <b><i>Let's connect!</i></b>
 
@@ -24,6 +22,9 @@
   
   <br />
   <hr />
+  
+  <img src="https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" width="270px" align="center">
+  
 </p>
 
 <p align="center"> 
