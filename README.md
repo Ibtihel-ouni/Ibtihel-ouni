@@ -4,9 +4,6 @@
   <p align="right">
   <img src="https://user-images.githubusercontent.com/58151963/107021205-26e87c80-67a4-11eb-9b36-4e4337b3717b.gif" width="240px" align="right">
 
-<hr />
-
-
 👩‍💻 AI Engineer | Data Scientist  \
 🚀 Highly Passionate about AI \
 👯 Looking forward to collaborating on open source projects \
@@ -15,8 +12,7 @@
 ⚡ Fun fact : My name is " P'tit Hell " :
 "p'tit" is " little " in french 😃 
 
-
-</p>
+<hr />
 
 <p align="center">
   <b><i>Let's connect!</i></b>
