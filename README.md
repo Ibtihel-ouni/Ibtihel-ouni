@@ -3,7 +3,6 @@
 </p>
 <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here! (she/her) </h2>
 
-
 👩‍💻 AI Engineer | Data Scientist \
 🚀 Highly Passionate about AI \
 👯 Looking forward to collaborating on open source projects \
@@ -26,19 +25,14 @@
   
 <hr />
 
-
-
 <p align="center"> 
-
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Ibtihel-ouni&show_icons=true&theme=gotham" alt="Ibtihel-ouni | Stats" />
-
   <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtihel-ouni&count_private=true&theme=tokyonight" />
 </p>
 
 
  # 🔭  ![Visitor Count](https://profile-counter.glitch.me/{Ibtihel-ouni}/count.svg)
  
-
 
 [twitter]: https://twitter.com/ibtihel_ouni
 [youtube]: https://www.youtube.com/channel/UCuOTyrYbh91uCFNd-4znObQ
