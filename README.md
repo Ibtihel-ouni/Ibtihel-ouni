@@ -8,7 +8,7 @@
 👯 Looking forward to collaborating on open source projects \
 💬 Feel free to ask me about anything, I would be glad to help (if I could ✨)\
 💙 Avid Dancer, Traveler, and Polyglot\
-⚡ Fun fact : My name is " P'tit Hell " : "p'tit" is " little " in french 😃 
+⚡ Fun fact : My name is " P'tit Hell " : "p'tit" is " little " in French 😃 
 
 <hr />
 
@@ -27,8 +27,17 @@
 
 <p align="center"> 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibtihel-ouni&show_icons=true&theme=gotham" alt="Ibtihel-ouni | Stats" />
+<!-- streak and trophies -->
 
+  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ibtihel-ouni&theme=dark&hide_border=true"/>
+
+</p>
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Ibtihel-ouni&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Ibtihel-ouni)
+
+<hr>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibtihel-ouni&show_icons=true&theme=gotham" alt="Ibtihel-ouni | Stats" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtihel-ouni&layout=compact&langs_count=5&theme=gotham"/>
 </p>
@@ -42,4 +51,3 @@
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/ibtihel-ouni-009b9a172/
 [Facebook]: https://www.facebook.com/btii.hal/
-
