@@ -25,22 +25,24 @@
   
 <hr />
 
-<p align="center"> 
+<div align="center">
 
 <!-- streak and trophies -->
 
   <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ibtihel-ouni&theme=dark&hide_border=true"/>
 
-</p>
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Ibtihel-ouni&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Ibtihel-ouni)
 
+</div>
+
 <hr>
 
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibtihel-ouni&show_icons=true&theme=gotham" alt="Ibtihel-ouni | Stats" />
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtihel-ouni&layout=compact&langs_count=5&theme=gotham"/>
-</p>
+
+</div>
 
 
  # 🔭  ![Visitor Count](https://profile-counter.glitch.me/{Ibtihel-ouni}/count.svg)
