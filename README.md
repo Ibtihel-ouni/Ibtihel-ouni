@@ -39,7 +39,7 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibtihel-ouni&show_icons=true&theme=gotham" alt="Ibtihel-ouni | Stats" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtihel-ouni&layout=compact&langs_count=5&theme=gotham"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtihel-ouni&layout=compact&langs_count=5&theme=gotham"/>
 </p>
 
 
