@@ -7,7 +7,7 @@
 🚀 Highly Passionate about AI \
 👯 Looking forward to collaborating on open source projects \
 💬 Feel free to ask me about anything, I would be glad to help (if I could ✨)\
-🔭 Love Traveling and Dancing\
+💙 Avid Dancer, Traveler, and Polyglot\
 ⚡ Fun fact : My name is " P'tit Hell " : "p'tit" is " little " in french 😃 
 
 <hr />
@@ -27,9 +27,10 @@
 
 <p align="center"> 
 
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Ibtihel-ouni&show_icons=true&theme=gotham" alt="Ibtihel-ouni | Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibtihel-ouni&show_icons=true&theme=gotham" alt="Ibtihel-ouni | Stats" />
 
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtihel-ouni&count_private=true&theme=tokyonight" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtihel-ouni&layout=compact&langs_count=5&theme=gotham"/>
 </p>
 
 
