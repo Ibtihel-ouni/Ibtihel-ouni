@@ -5,7 +5,7 @@
 
 👩‍💻 AI Engineer | Data Scientist \
 ✨Member of [Women in AI](https://www.linkedin.com/company/womeninai/mycompany/) and [AI Guild](https://www.linkedin.com/company/ai-guild/mycompany/)\
-🌍 Global Ambassador at[ WomenTech Network](https://www.womentech.net/global-ambassadors/Germany/Ibtihel/Ouni) \
+🌍 Global Ambassador at[ WomenTech Network](https://www.womentech.net/global-ambassadors/Germany/Ibtihel/Ouni) and [Google Women Techmakers](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57fa1e/ibtihel_ouni?fbclid=IwAR1pXeSvysdLdcXeyzmqkUXw7eOFuouxO-5MSsjcoRPu_YEGE6VwK-56ym0) \
 🚀 Highly Passionate about AI, Leadership and Diversity. \
 👯 Looking forward to collaborating on open-source projects \
 💬 Feel free to ask me about anything, I would be glad to help!\
