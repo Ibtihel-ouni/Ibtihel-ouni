@@ -4,7 +4,6 @@
 <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 , Ibtihel here! (she/her) </h2>
 
 👩‍💻 AI Engineer | Data Scientist \
-💙 Avid Dancer, Traveler, and Polyglot\
 ✨Member of [Women in AI](https://www.linkedin.com/company/womeninai/mycompany/) and [AI Guild](https://www.linkedin.com/company/ai-guild/mycompany/)\
 🌍 Global Ambassador at[ WomenTech Network](https://www.womentech.net/global-ambassadors/Germany/Ibtihel/Ouni) \
 🚀 Highly Passionate about AI, Leadership and Diversity. \
